@@ -1,0 +1,11 @@
+streamlit
+pandas
+requests
+easyocr
+folium
+streamlit-folium
+fpdf
+Pillow
+geopy
+opencv-python-headless
+python-dotenv
