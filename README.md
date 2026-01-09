@@ -39,3 +39,7 @@ O sistema é dividido em 3 módulos operacionais:
 
 - Python 3.9 ou superior
 - Conta/Instância configurada na Evolution API (para envio de WhatsApp)
+
+## Observação:
+
+em testes que realizei não tive muito êxito no reconhecimento de placa usando a biblioteca EasyOCR. O ideal seria usar também a Tesseract, porém não trabalhei mais afundo no projeto nessa parte, podendo ser explorado melhor para êxito.
