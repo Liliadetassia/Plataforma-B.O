@@ -42,4 +42,4 @@ O sistema é dividido em 3 módulos operacionais:
 
 ## Observação:
 
-Em testes que realizei não tive muito êxito no reconhecimento de placa usando a biblioteca EasyOCR e OpenCV. O ideal seria usar também a Tesseract, porém não trabalhei mais afundo no projeto nessa parte, podendo ser explorado melhor para êxito.
+Em testes que realizei não tive muito êxito no reconhecimento de placa usando a biblioteca EasyOCR e OpenCV. O ideal seria usar também a Tesseract, porém não trabalhei mais afundo no projeto nessa parte, podendo ser explorado melhor para êxito. Uma informação importante que acabei não utilizando o Tesseract é que precisa ser instalado na máquina local ou na máquina virtual ao fazer deploy e para facilidades de estudo optei em não utilizar, mas pretendo depois modificar este projeto para melhor teste referente a isso. Caso deseje pode explorar vídeos no youtube ensinando como usar o Tesseract e modificar o código para melhor análise. Bons estudos!
